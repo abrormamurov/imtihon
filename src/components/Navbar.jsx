@@ -75,7 +75,7 @@ function Navbar() {
           </ul>
         </div>
         <Link to="/" className="btn btn-ghost text-xl">
-          Kitchen
+          List
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
