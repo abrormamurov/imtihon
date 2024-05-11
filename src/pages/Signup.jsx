@@ -37,7 +37,7 @@ function Singup() {
         >
           Singup
         </button>
-        <Link to="/login" type="button" className="btn btn-info w-full">
+        <Link to="/login" type="button" className="btn btn-primary w-full">
           Login
         </Link>
       </div>

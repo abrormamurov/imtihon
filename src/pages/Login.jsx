@@ -21,12 +21,12 @@ function Login() {
           <InputForm label="password" name="password" type="password" />
           <button
             onClick={handleLogin}
-            className="btn btn-accent w-full mb-3 mt-3"
+            className="btn btn-primary w-full mb-3 mt-3"
           >
             Login
           </button>
         </Form>
-        <Link to="/singup" type="button" className="btn btn-success w-full">
+        <Link to="/singup" type="button" className="btn btn-primary w-full">
           Singup
         </Link>
       </div>
